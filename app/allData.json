@@ -1,0 +1,1283 @@
+{
+  "first": {
+  "limit": 50,
+  "offset": 0,
+  "records": [
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.45352867553243",
+          "latitude_degrees": "43.73690967818048"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "4",
+        "record_last_updated": "1661101015355",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "40964104",
+      "system_attributes": {
+        "created_date": "1661101015355",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101015355",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 40964104,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.50042903494747",
+          "country": "canada",
+          "latitude_degrees": "43.79973343477311",
+          "city": "Concord",
+          "address_line1": "2267 Hwy 7",
+          "zip_postal_code": "L4K1V7",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "A&W Canada"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9055320887"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "108",
+        "record_last_updated": "1661101032798",
+        "record_source": "MDM"
+      },
+      "id": "40964184",
+      "system_attributes": {
+        "created_date": "1661101032798",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101032798",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 40964184,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.36677241533182",
+          "country": "canada",
+          "latitude_degrees": "43.77189008299018",
+          "city": "Toronto",
+          "address_line1": "15 Provost Dr",
+          "zip_postal_code": "M2K2X9",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "IKEA North York"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "105",
+        "record_last_updated": "1661101031368",
+        "record_source": "MDM"
+      },
+      "id": "40964240",
+      "system_attributes": {
+        "created_date": "1661101031368",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101031368",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 40964240,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.50070527302811",
+          "latitude_degrees": "43.79881159888932"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mike",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "5",
+        "record_last_updated": "1661101028084",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4112",
+      "system_attributes": {
+        "created_date": "1661101028084",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101028084",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4112,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241523182",
+          "latitude_degrees": "43.77189008289018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "3",
+        "record_last_updated": "1661101014849",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "4128",
+      "system_attributes": {
+        "created_date": "1661101014849",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101014849",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4128,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.50095527302821",
+          "latitude_degrees": "43.79931259888983"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "mALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "546-762-6103"
+        },
+        "legal_name": {
+          "generation": "phd",
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Smith",
+          "suffix": "2d",
+          "given_name": "John",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "EGJDASS9820M"
+        },
+        "personal_email": {
+          "email_id": "smythj@us.gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.322533013126",
+          "country": "canada",
+          "latitude_degrees": "43.86360381182663",
+          "city": "markham",
+          "address_line1": "125 Krieghoff Ave",
+          "zip_postal_code": "L3R1V8",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "2",
+        "record_last_updated": "1661101014213",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "987370729870"
+        },
+        "tax_identification": {
+          "identification_number": "4533356781"
+        }
+      },
+      "id": "4160",
+      "system_attributes": {
+        "created_date": "1661101014213",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101014213",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4160,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.50081527302805",
+          "country": "canada",
+          "latitude_degrees": "43.79891259888944",
+          "city": "Concord",
+          "address_line1": "7700 Keele St",
+          "zip_postal_code": "L4K2A1",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "GoodLife Fitness Vaughan Keele and Highway 7"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9057384747"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "104",
+        "record_last_updated": "1661101030899",
+        "record_source": "MDM"
+      },
+      "id": "4176",
+      "system_attributes": {
+        "created_date": "1661101030899",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101030899",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4176,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.45352767553243",
+          "country": "canada",
+          "latitude_degrees": "43.73690968818048",
+          "city": "Toronto",
+          "address_line1": "90 Billy Bishop Way",
+          "zip_postal_code": "M3K2C8",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "The Home Depot"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "4163736000"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "106",
+        "record_last_updated": "1661101031843",
+        "record_source": "MDM"
+      },
+      "id": "4192",
+      "system_attributes": {
+        "created_date": "1661101031843",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101031843",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4192,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241433182",
+          "latitude_degrees": "43.77189008399018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Michael"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "6",
+        "record_last_updated": "1661101028684",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4208",
+      "system_attributes": {
+        "created_date": "1661101028684",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101028684",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4208,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.55932220591725",
+          "country": "canada",
+          "latitude_degrees": "43.64652578488628",
+          "city": "Etobicoke",
+          "address_line1": "380 The East Mall",
+          "zip_postal_code": "M9B6L5",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "Loblaws"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "4166958990"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "101",
+        "record_last_updated": "1661101029242",
+        "record_source": "MDM"
+      },
+      "id": "4264",
+      "system_attributes": {
+        "created_date": "1661101029242",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101029242",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4264,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.33715244489733",
+          "country": "canada",
+          "latitude_degrees": "43.85442773586149",
+          "city": "Markham",
+          "address_line1": "3621 Hwy 7",
+          "zip_postal_code": "L3R0G6",
+          "province_state": "ON",
+          "residence_number": "106"
+        },
+        "business_name": {
+          "name": "Gal's Sushi"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9053057753"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "103",
+        "record_last_updated": "1661101030271",
+        "record_source": "MDM"
+      },
+      "id": "4280",
+      "system_attributes": {
+        "created_date": "1661101030271",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101030271",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4280,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.33715234489733",
+          "latitude_degrees": "43.85442772586149"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "mALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "546-762-6103"
+        },
+        "legal_name": {
+          "generation": "phd",
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Smyth",
+          "suffix": "2d",
+          "given_name": "John",
+          "middle_name": "Dony"
+        },
+        "passport": {
+          "identification_number": "EGJDASS9820M"
+        },
+        "personal_email": {
+          "email_id": "smythj@us.gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.322533013126",
+          "country": "canada",
+          "latitude_degrees": "43.86360381182663",
+          "city": "markham",
+          "address_line1": "125 Krieghoff Ave",
+          "zip_postal_code": "L3R1V8",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "1",
+        "record_last_updated": "1661101013835",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "987370729870"
+        },
+        "tax_identification": {
+          "identification_number": "4533356781"
+        }
+      },
+      "id": "8216",
+      "system_attributes": {
+        "created_date": "1661101013835",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101013835",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 8216,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.34868884665795",
+          "country": "canada",
+          "latitude_degrees": "43.82047735567146",
+          "city": "Markham",
+          "address_line1": "7095 Woodbine Ave",
+          "zip_postal_code": "L3R1A3",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "Courtyard by Marriott Toronto Northeast/Markham"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9054740444"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "102",
+        "record_last_updated": "1661101029861",
+        "record_source": "MDM"
+      },
+      "id": "8256",
+      "system_attributes": {
+        "created_date": "1661101029861",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101029861",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 8256,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.18214134962449",
+          "country": "canada",
+          "latitude_degrees": "43.82450293235219",
+          "city": "Toronto",
+          "address_line1": "2000 Meadowvale Rd",
+          "zip_postal_code": "M1B5K7",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "Toronto Zoo"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "4163925900"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "107",
+        "record_last_updated": "1661101032383",
+        "record_source": "MDM"
+      },
+      "id": "8320",
+      "system_attributes": {
+        "created_date": "1661101032383",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101032383",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 8320,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.33715234489733",
+          "latitude_degrees": "43.85442772586149"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "mALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "546-762-6103"
+        },
+        "legal_name": {
+          "generation": "phd",
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Smyth",
+          "suffix": "2d",
+          "given_name": "John",
+          "middle_name": "Dony"
+        },
+        "passport": {
+          "identification_number": "EGJDASS9820M"
+        },
+        "personal_email": {
+          "email_id": "smythj@us.gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.322533013126",
+          "country": "canada",
+          "latitude_degrees": "43.86360381182663",
+          "city": "markham",
+          "address_line1": "125 Krieghoff Ave",
+          "zip_postal_code": "L3R1V8",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "1",
+        "record_last_updated": "1661100869964",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "987370729870"
+        },
+        "tax_identification": {
+          "identification_number": "4533356781"
+        }
+      },
+      "id": "4096",
+      "system_attributes": {
+        "created_date": "1661100869964",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100869964",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4096,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.50070527302811",
+          "latitude_degrees": "43.79881159888932"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mike",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "5",
+        "record_last_updated": "1661100936544",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4104",
+      "system_attributes": {
+        "created_date": "1661100936544",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100936544",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4104,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.50095527302821",
+          "latitude_degrees": "43.79931259888983"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "mALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "546-762-6103"
+        },
+        "legal_name": {
+          "generation": "phd",
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Smith",
+          "suffix": "2d",
+          "given_name": "John",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "EGJDASS9820M"
+        },
+        "personal_email": {
+          "email_id": "smythj@us.gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.322533013126",
+          "country": "canada",
+          "latitude_degrees": "43.86360381182663",
+          "city": "markham",
+          "address_line1": "125 Krieghoff Ave",
+          "zip_postal_code": "L3R1V8",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "2",
+        "record_last_updated": "1661100887686",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "987370729870"
+        },
+        "tax_identification": {
+          "identification_number": "4533356781"
+        }
+      },
+      "id": "4120",
+      "system_attributes": {
+        "created_date": "1661100887686",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100887686",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4120,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241523182",
+          "latitude_degrees": "43.77189008289018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "3",
+        "record_last_updated": "1661100904973",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "4168",
+      "system_attributes": {
+        "created_date": "1661100904973",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100904973",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4168,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241433182",
+          "latitude_degrees": "43.77189008399018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Michael"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "6",
+        "record_last_updated": "1661100952779",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4272",
+      "system_attributes": {
+        "created_date": "1661100952779",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100952779",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4272,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.45352867553243",
+          "latitude_degrees": "43.73690967818048"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "4",
+        "record_last_updated": "1661100919678",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "4328",
+      "system_attributes": {
+        "created_date": "1661100919678",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100919678",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4328,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.33715244489733",
+          "country": "canada",
+          "latitude_degrees": "43.85442773586149",
+          "city": "Markham",
+          "address_line1": "3621 Hwy 7",
+          "zip_postal_code": "L3R0G6",
+          "province_state": "ON",
+          "residence_number": "106"
+        },
+        "business_name": {
+          "name": "Gal's Sushi"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9053057753"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "103",
+        "record_last_updated": "1661100969672",
+        "record_source": "MDM"
+      },
+      "id": "40964248",
+      "system_attributes": {
+        "created_date": "1661100969672",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100969672",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 40964248,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.50042903494747",
+          "country": "canada",
+          "latitude_degrees": "43.79973343477311",
+          "city": "Concord",
+          "address_line1": "2267 Hwy 7",
+          "zip_postal_code": "L4K1V7",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "A&W Canada"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9055320887"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "108",
+        "record_last_updated": "1661101001074",
+        "record_source": "MDM"
+      },
+      "id": "4144",
+      "system_attributes": {
+        "created_date": "1661101001074",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101001074",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4144,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.36677241533182",
+          "country": "canada",
+          "latitude_degrees": "43.77189008299018",
+          "city": "Toronto",
+          "address_line1": "15 Provost Dr",
+          "zip_postal_code": "M2K2X9",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "IKEA North York"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "105",
+        "record_last_updated": "1661100985103",
+        "record_source": "MDM"
+      },
+      "id": "4184",
+      "system_attributes": {
+        "created_date": "1661100985103",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100985103",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4184,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.18214134962449",
+          "country": "canada",
+          "latitude_degrees": "43.82450293235219",
+          "city": "Toronto",
+          "address_line1": "2000 Meadowvale Rd",
+          "zip_postal_code": "M1B5K7",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "Toronto Zoo"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "4163925900"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "107",
+        "record_last_updated": "1661101000624",
+        "record_source": "MDM"
+      },
+      "id": "4216",
+      "system_attributes": {
+        "created_date": "1661101000624",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101000624",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4216,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.50081527302805",
+          "country": "canada",
+          "latitude_degrees": "43.79891259888944",
+          "city": "Concord",
+          "address_line1": "7700 Keele St",
+          "zip_postal_code": "L4K2A1",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "GoodLife Fitness Vaughan Keele and Highway 7"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9057384747"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "104",
+        "record_last_updated": "1661100971011",
+        "record_source": "MDM"
+      },
+      "id": "4224",
+      "system_attributes": {
+        "created_date": "1661100971011",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100971011",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4224,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.45352767553243",
+          "country": "canada",
+          "latitude_degrees": "43.73690968818048",
+          "city": "Toronto",
+          "address_line1": "90 Billy Bishop Way",
+          "zip_postal_code": "M3K2C8",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "The Home Depot"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "4163736000"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "106",
+        "record_last_updated": "1661100986193",
+        "record_source": "MDM"
+      },
+      "id": "4240",
+      "system_attributes": {
+        "created_date": "1661100986193",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100986193",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4240,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.34868884665795",
+          "country": "canada",
+          "latitude_degrees": "43.82047735567146",
+          "city": "Markham",
+          "address_line1": "7095 Woodbine Ave",
+          "zip_postal_code": "L3R1A3",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "Courtyard by Marriott Toronto Northeast/Markham"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "9054740444"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "102",
+        "record_last_updated": "1661100968268",
+        "record_source": "MDM"
+      },
+      "id": "4248",
+      "system_attributes": {
+        "created_date": "1661100968268",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100968268",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4248,
+      "type": "record",
+      "type_name": "organization"
+    },
+    {
+      "attributes": {
+        "business_address": {
+          "longitude_degrees": "-79.55932220591725",
+          "country": "canada",
+          "latitude_degrees": "43.64652578488628",
+          "city": "Etobicoke",
+          "address_line1": "380 The East Mall",
+          "zip_postal_code": "M9B6L5",
+          "province_state": "ON"
+        },
+        "business_name": {
+          "name": "Loblaws"
+        },
+        "business_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "4166958990"
+        },
+        "collection_id": "data-create-op",
+        "record_id": "101",
+        "record_last_updated": "1661100967209",
+        "record_source": "MDM"
+      },
+      "id": "8264",
+      "system_attributes": {
+        "created_date": "1661100967209",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100967209",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 8264,
+      "type": "record",
+      "type_name": "organization"
+    }
+  ]
+}

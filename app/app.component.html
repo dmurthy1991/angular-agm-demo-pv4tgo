@@ -1,0 +1,96 @@
+<div class="searchslider">
+  <input
+    type="text"
+    placeholder="Search"
+    [(ngModel)]="search"
+    (keyup.enter)="searchText()"
+    class="searchBox"
+  />
+  <ngx-slider
+    class="sliderbar"
+    [(value)]="value"
+    [options]="options"
+  ></ngx-slider>
+  <p class="slidertext">Geo Distance</p>
+</div>
+
+<br />
+<br />
+<div>
+  <!-- table -->
+  <table *ngIf="data.length" mat-table [dataSource]="data">
+    <ng-container matColumnDef="record_id">
+      <th class="header type-column" mat-header-cell *matHeaderCellDef>
+        <span>Id</span>
+      </th>
+      <td mat-cell *matCellDef="let request">{{ request.record_id }}</td>
+    </ng-container>
+    <ng-container matColumnDef="type_name">
+      <th class="header type-column" mat-header-cell *matHeaderCellDef>
+        <span>Entity Type</span>
+      </th>
+      <td mat-cell *matCellDef="let request">{{ request.type_name }}</td>
+    </ng-container>
+    <ng-container matColumnDef="name">
+      <th class="header type-column" mat-header-cell *matHeaderCellDef>
+        <span>Name</span>
+      </th>
+      <td mat-cell *matCellDef="let request">{{ request.name }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="address">
+      <th class="header type-column" mat-header-cell *matHeaderCellDef>
+        <span>Address</span>
+      </th>
+      <td mat-cell *matCellDef="let request">{{ request.address }}</td>
+    </ng-container>
+    <tr mat-header-row *matHeaderRowDef="columnsToDisplay"></tr>
+    <tr
+      class="check"
+      mat-row
+      *matRowDef="let request; columns: columnsToDisplay"
+      (click)="sendDetails(request)"
+    ></tr>
+  </table>
+</div>
+<div class="fl-contain">
+  <div class="map">
+    <!-- Maps -->
+    <agm-map
+      [latitude]="lat"
+      [longitude]="lng"
+      [zoom]="zoom"
+      [disableDefaultUI]="false"
+      [zoomControl]="false"
+      (mapClick)="mapClicked($event)"
+    >
+      <agm-marker
+        *ngFor="let m of markers; let i = index"
+        (markerClick)="clickedMarker(m.label, i)"
+        [latitude]="m.lat"
+        [longitude]="m.lng"
+        [label]="m.label"
+        [markerDraggable]="m.draggable"
+        (dragEnd)="markerDragEnd(m, $event)"
+      >
+        <agm-info-window>
+          <button class="show" (click)="showEntity(m)">
+            Show Entity Relation
+          </button>
+          <br />
+          <br />
+          <button class="show">Show Record Relation</button>
+        </agm-info-window>
+      </agm-marker>
+    </agm-map>
+  </div>
+
+  <div [hidden]="!showChart" #chartContainer class="chart">
+    <svg #svg id="svg" class="tree-chart">
+      <g transform="translate(5, 5)">
+        <g class="links"></g>
+        <g class="nodes"></g>
+      </g>
+    </svg>
+  </div>
+</div>

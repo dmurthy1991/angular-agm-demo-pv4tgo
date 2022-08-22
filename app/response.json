@@ -1,0 +1,497 @@
+{
+  "first": {
+  "last": {
+  "limit": 10,
+  "offset": 0,
+  "total_count": 8,
+  "is_exact_count": true,
+  "results": [
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.50070527302811",
+          "latitude_degrees": "43.79881159888932"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mike",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "5",
+        "record_last_updated": "1661100936544",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4104",
+      "system_attributes": {
+        "created_date": "1661100936544",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100936544",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4104,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.50070527302811",
+          "latitude_degrees": "43.79881159888932"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mike",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "5",
+        "record_last_updated": "1661101028084",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4112",
+      "system_attributes": {
+        "created_date": "1661101028084",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101028084",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4112,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.45352867553243",
+          "latitude_degrees": "43.73690967818048"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "4",
+        "record_last_updated": "1661101015355",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "40964104",
+      "system_attributes": {
+        "created_date": "1661101015355",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101015355",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 40964104,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241433182",
+          "latitude_degrees": "43.77189008399018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Michael"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "6",
+        "record_last_updated": "1661100952779",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4272",
+      "system_attributes": {
+        "created_date": "1661100952779",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100952779",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4272,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241523182",
+          "latitude_degrees": "43.77189008289018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "3",
+
+        "record_last_updated": "1661100904973",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "4168",
+      "system_attributes": {
+        "created_date": "1661100904973",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100904973",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4168,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.45352867553243",
+          "latitude_degrees": "43.73690967818048"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "4",
+        "record_last_updated": "1661100919678",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "4328",
+      "system_attributes": {
+        "created_date": "1661100919678",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661100919678",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4328,
+      "type": "record",
+      "type_name": "person"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241433182",
+          "latitude_degrees": "43.77189008399018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "male"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Michael"
+        },
+        "passport": {
+          "identification_number": "IDHJSUE253A"
+        },
+        "personal_email": {
+          "email_id": "mike.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "6",
+        "record_last_updated": "1661101028684",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "934747265"
+        },
+        "tax_identification": {
+          "identification_number": "35325612"
+        }
+      },
+      "id": "4208",
+      "system_attributes": {
+        "created_date": "1661101028684",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101028684",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4208,
+      "type": "record",
+      "type_name": "geo"
+    },
+    {
+      "attributes": {
+        "been_to_address": {
+          "longitude_degrees": "-79.36677241523182",
+          "latitude_degrees": "43.77189008289018"
+        },
+        "birth_date": {
+          "value": "1964-08-21T00:00:00"
+        },
+        "collection_id": "data-create-op",
+        "gender": {
+          "value": "FemALe"
+        },
+        "home_telephone": {
+          "contact_method": "Telephone Number",
+          "phone_number": "614-235-3512"
+        },
+        "legal_name": {
+          "prefix": "rev",
+          "usage": "Legal",
+          "last_name": "Jackson",
+          "given_name": "Mary",
+          "middle_name": "Don"
+        },
+        "passport": {
+          "identification_number": "UISDASS1520M"
+        },
+        "personal_email": {
+          "email_id": "mary.jackson@gmail.com"
+        },
+        "primary_residence": {
+          "longitude_degrees": "-79.4810415865476",
+          "country": "canada",
+          "latitude_degrees": "43.663817543534265",
+          "city": "Toronto",
+          "address_line1": "285 St Johns Rd",
+          "zip_postal_code": "M6P1V3",
+          "province_state": "ON",
+          "county": "Peel"
+        },
+        "record_id": "3",
+        "record_last_updated": "1661101014849",
+        "record_source": "MDM",
+        "social_security_number": {
+          "identification_number": "9375839234"
+        },
+        "tax_identification": {
+          "identification_number": "15235266"
+        }
+      },
+      "id": "4128",
+      "system_attributes": {
+        "created_date": "1661101014849",
+        "created_user": "Effy.Wu@gmail.com",
+        "last_updated_date": "1661101014849",
+        "last_updated_user": "Effy.Wu@gmail.com"
+      },
+      "record_number": 4128,
+      "type": "record",
+      "type_name": "geo"
+    }
+  ]
+}
